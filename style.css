@@ -5,3 +5,26 @@ h1 {
 p {
   text-align: center;
 }
+
+body {
+  background-image: url(https://i.pinimg.com/736x/f2/05/52/f2055287869555b7efa535223ddc059a.jpg);
+  background-size: cover;
+}
+
+.image {
+  align-content: center;
+}
+
+.profile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Credentials {
+  border-style: solid;
+}
+
+.About {
+  border-style: solid;
+}
