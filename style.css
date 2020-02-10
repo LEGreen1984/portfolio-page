@@ -35,6 +35,11 @@ body {
   padding: 20px
 }
 
+.About h2 {
+  text-align: center;
+  color: white;
+}
+
 .jumbotron {
   background-image: url(https://wallpaperheart.com/wp-content/uploads/2018/04/professional-background-images-hd-2.jpg);
   background-image: linear-gradient(-90deg);
